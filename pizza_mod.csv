@@ -1,0 +1,130 @@
+,Branch,Price Rupiah,Diameter,Topping,Variant,Size,Extra Sauce,Extra Cheese,Extra Mushrooms
+0,Mumbai,235000.0,22.0,Chicken,Double Signature,Jumbo,Yes,Yes,No
+1,Mumbai,198000.0,20.0,Papperoni,Double Signature,Jumbo,Yes,Yes,No
+2,Mumbai,120000.0,16.0,Mushrooms,Double Signature,Reguler,Yes,Yes,Yes
+3,Mumbai,155000.0,14.0,Smoked Beef,Double Signature,Reguler,Yes,No,Yes
+4,Mumbai,248000.0,18.0,Mozzarella,Double Signature,Jumbo,Yes,No,Yes
+5,Mumbai,140000.0,18.5,Black Papper,American Favorite,Jumbo,No,No,Yes
+6,Mumbai,110000.0,16.0,Smoked Beef,American Favorite,Jumbo,No,Yes,Yes
+7,Mumbai,70000.0,8.0,Papperoni,American Favorite,Reguler,No,No,Yes
+8,Mumbai,90000.0,12.0,Mushrooms,American Favorite,Reguler,Yes,No,Yes
+9,Mumbai,90000.0,12.0,Smoked Beef,American Favorite,Reguler,No,No,No
+10,Mumbai,140000.0,18.5,Mozzarella,Super Supreme,Jumbo,No,No,No
+11,Mumbai,110000.0,16.0,Black Papper,Super Supreme,Jumbo,Yes,Yes,No
+12,Mumbai,70000.0,8.0,Smoked Beef,Super Supreme,Reguler,Yes,Yes,No
+13,Mumbai,90000.0,12.0,Black Papper,Super Supreme,Reguler,No,Yes,No
+14,Mumbai,90000.0,12.0,Mozzarella,Super Supreme,Reguler,No,Yes,No
+15,Mumbai,140000.0,18.5,Mozzarella,Meat Lovers,Jumbo,No,Yes,Yes
+16,Mumbai,110000.0,16.0,Smoked Beef,Meat Lovers,Jumbo,No,Yes,Yes
+17,Mumbai,70000.0,8.0,Chicken,Meat Lovers,Reguler,Yes,Yes,Yes
+18,Mumbai,90000.0,12.0,Mushrooms,Meat Lovers,Reguler,Yes,Yes,Yes
+19,Mumbai,90000.0,12.0,Mozzarella,Meat Lovers,Reguler,Yes,Yes,Yes
+20,Mumbai,230000.0,22.0,Chicken,Double Mix,Jumbo,Yes,Yes,Yes
+21,Mumbai,188000.0,18.5,Mushrooms,Double Mix,Jumbo,Yes,Yes,Yes
+22,Mumbai,114000.0,14.0,Chicken,Double Mix,Reguler,Yes,Yes,Yes
+23,Mumbai,149000.0,16.5,Smoked Beef,Double Mix,Reguler,Yes,No,No
+24,Mumbai,149000.0,16.5,Chicken,Double Mix,Reguler,Yes,No,No
+25,Delhi,23500.0,8.5,Mozzarella,Classic,Small,Yes,No,No
+26,Delhi,46000.0,12.0,Chicken,Classic,Medium,Yes,No,No
+27,Delhi,72000.0,14.0,Smoked Beef,Classic,Large,Yes,No,Yes
+28,Delhi,49000.0,12.0,Mozzarella,Crunchy,Medium,No,No,Yes
+29,Delhi,83000.0,17.0,Chicken,New York,Xl,No,Yes,Yes
+30,Delhi,96000.0,12.0,Chicken,Double Decker,Medium,No,Yes,Yes
+31,Delhi,31000.0,8.5,Mushrooms,Classic,Small,Yes,Yes,Yes
+32,Delhi,69000.0,12.0,Chicken,Classic,Medium,No,Yes,Yes
+33,Delhi,93000.0,14.0,Mushrooms,Classic,Large,No,Yes,Yes
+34,Delhi,75000.0,12.0,Mushrooms,Crunchy,Medium,No,Yes,Yes
+35,Delhi,115000.0,17.0,Mozzarella,New York,Xl,No,Yes,Yes
+36,Delhi,123000.0,12.0,Smoked Beef,Double Decker,Medium,Yes,Yes,Yes
+37,Delhi,33000.0,8.5,Chicken,Classic,Small,No,Yes,Yes
+38,Delhi,46000.0,12.0,Mozzarella,Classic,Medium,Yes,Yes,Yes
+39,Delhi,72000.0,14.0,Chicken,Classic,Large,Yes,Yes,No
+40,Delhi,76000.0,12.0,Chicken,Crunchy,Medium,No,No,No
+41,Delhi,119000.0,17.0,Mushrooms,New York,Xl,Yes,No,No
+42,Delhi,126500.0,12.0,Smoked Beef,Double Decker,Medium,Yes,No,No
+43,Delhi,75000.0,8.5,Smoked Beef,Classic,Small,Yes,Yes,No
+44,Delhi,46000.0,12.0,Mushrooms,Classic,Medium,Yes,Yes,No
+45,Delhi,72000.0,14.0,Mozzarella,Classic,Large,Yes,Yes,No
+46,Delhi,49000.0,12.0,Smoked Beef,Crunchy,Medium,No,Yes,No
+47,Delhi,83000.0,17.0,Chicken,New York,Xl,No,Yes,No
+48,Delhi,96000.0,12.0,Mushrooms,Double Decker,Medium,No,Yes,No
+49,Bengaluru,39000.0,8.5,Tuna,Spicy Tuna,Small,Yes,Yes,Yes
+50,Bengaluru,72000.0,12.0,Tuna,Spicy Tuna,Medium,Yes,Yes,Yes
+51,Bengaluru,99000.0,14.0,Tuna,Spicy Tuna,Large,Yes,Yes,Yes
+52,Bengaluru,44000.0,8.5,Meat,Bbq Meat Fiesta,Small,Yes,No,Yes
+53,Bengaluru,78000.0,12.0,Meat,Bbq Meat Fiesta,Medium,No,No,No
+54,Bengaluru,105000.0,14.0,Meat,Bbq Meat Fiesta,Large,Yes,No,Yes
+55,Bengaluru,39000.0,8.5,Sausage,Bbq Sausage,Small,No,Yes,Yes
+56,Bengaluru,72000.0,12.0,Sausage,Bbq Sausage,Medium,Yes,Yes,No
+57,Bengaluru,99000.0,14.0,Sausage,Bbq Sausage,Large,No,Yes,No
+58,Bengaluru,35000.0,8.5,Mushrooms,Extravaganza,Small,Yes,Yes,No
+59,Bengaluru,60000.0,12.0,Onion,Extravaganza,Medium,Yes,Yes,No
+60,Bengaluru,98000.0,14.0,Mozzarella,Extravaganza,Large,Yes,Yes,Yes
+61,Bengaluru,35000.0,8.5,Meat,Meat Eater,Small,Yes,Yes,Yes
+62,Bengaluru,60000.0,12.0,Meat,Meat Eater,Medium,Yes,Yes,Yes
+63,Bengaluru,98000.0,14.0,Meat,Meat Eater,Large,Yes,Yes,No
+64,Bengaluru,44000.0,8.5,Vegetables,Gournet Greek,Small,No,No,No
+65,Bengaluru,78000.0,12.0,Vegetables,Gournet Greek,Medium,No,No,No
+66,Bengaluru,105000.0,14.0,Vegetables,Gournet Greek,Large,No,No,No
+67,Bengaluru,28000.0,8.5,Vegetables,Italian Veggie,Small,No,Yes,No
+68,Bengaluru,51000.0,12.0,Vegetables,Italian Veggie,Medium,No,Yes,No
+69,Bengaluru,84000.0,14.0,Vegetables,Italian Veggie,Large,Yes,Yes,No
+70,Bengaluru,39000.0,8.5,Vegetables,Thai Veggie,Small,No,Yes,Yes
+71,Bengaluru,72000.0,12.0,Vegetables,Thai Veggie,Medium,Yes,No,Yes
+72,Bengaluru,99000.0,14.0,Vegetables,Thai Veggie,Large,No,No,Yes
+73,Bengaluru,35000.0,8.5,Beef,American Classic,Small,Yes,No,Yes
+74,Bengaluru,60000.0,12.0,Beef,American Classic,Medium,Yes,No,Yes
+75,Bengaluru,98000.0,14.0,Beef,American Classic,Large,Yes,No,Yes
+76,Bengaluru,32000.0,8.5,Tuna,Neptune Tuna,Small,Yes,No,Yes
+77,Bengaluru,54000.0,12.0,Tuna,Neptune Tuna,Medium,Yes,Yes,No
+78,Bengaluru,92000.0,14.0,Tuna,Neptune Tuna,Large,Yes,Yes,No
+79,Hyderabad,140000.0,18.5,Mozzarella,Meat Lovers,Jumbo,No,Yes,No
+80,Hyderabad,110000.0,16.0,Smoked Beef,Meat Lovers,Jumbo,No,Yes,No
+81,Hyderabad,70000.0,8.0,Chicken,Meat Lovers,Reguler,Yes,Yes,No
+82,Hyderabad,90000.0,12.0,Mushrooms,Meat Lovers,Reguler,Yes,Yes,No
+83,Hyderabad,90000.0,12.0,Mozzarella,Meat Lovers,Reguler,Yes,Yes,No
+84,Hyderabad,230000.0,22.0,Chicken,Double Mix,Jumbo,Yes,Yes,Yes
+85,Hyderabad,188000.0,18.5,Mushrooms,Double Mix,Jumbo,Yes,Yes,Yes
+86,Hyderabad,114000.0,14.0,Chicken,Double Mix,Reguler,Yes,Yes,Yes
+87,Hyderabad,149000.0,16.5,Smoked Beef,Double Mix,Reguler,Yes,No,Yes
+88,Hyderabad,149000.0,16.5,Chicken,Double Mix,Reguler,Yes,No,Yes
+89,Hyderabad,23500.0,8.5,Mozzarella,Classic,Small,Yes,No,Yes
+90,Hyderabad,46000.0,12.0,Chicken,Classic,Medium,Yes,No,Yes
+91,Hyderabad,72000.0,14.0,Smoked Beef,Classic,Large,Yes,No,Yes
+92,Hyderabad,49000.0,12.0,Mozzarella,Crunchy,Medium,No,No,Yes
+93,Hyderabad,83000.0,17.0,Chicken,New York,Xl,No,Yes,Yes
+94,Hyderabad,96000.0,12.0,Chicken,Double Decker,Medium,No,Yes,No
+95,Hyderabad,31000.0,8.5,Mushrooms,Classic,Small,Yes,Yes,No
+96,Hyderabad,69000.0,12.0,Chicken,Classic,Medium,No,Yes,No
+97,Hyderabad,93000.0,14.0,Mushrooms,Classic,Large,No,Yes,No
+98,Hyderabad,75000.0,12.0,Mushrooms,Crunchy,Medium,No,Yes,Yes
+99,Calcutta,115000.0,17.0,Mozzarella,New York,Xl,No,Yes,Yes
+100,Calcutta,23500.0,8.5,Mozzarella,Classic,Small,Yes,No,Yes
+101,Calcutta,46000.0,12.0,Chicken,Classic,Medium,Yes,No,Yes
+102,Calcutta,72000.0,14.0,Smoked Beef,Classic,Large,Yes,No,No
+103,Calcutta,49000.0,12.0,Mozzarella,Crunchy,Medium,No,No,No
+104,Calcutta,83000.0,17.0,Chicken,New York,Xl,No,Yes,No
+105,Calcutta,96000.0,12.0,Chicken,Double Decker,Medium,No,Yes,No
+106,Calcutta,31000.0,8.5,Mushrooms,Classic,Small,Yes,Yes,No
+107,Calcutta,69000.0,12.0,Chicken,Classic,Medium,No,Yes,Yes
+108,Calcutta,93000.0,14.0,Mushrooms,Classic,Large,No,Yes,Yes
+109,Calcutta,75000.0,12.0,Mushrooms,Crunchy,Medium,No,Yes,Yes
+110,Calcutta,115000.0,17.0,Mozzarella,New York,Xl,No,Yes,Yes
+111,Calcutta,123000.0,12.0,Smoked Beef,Double Decker,Medium,Yes,Yes,Yes
+112,Calcutta,33000.0,8.5,Chicken,Classic,Small,No,Yes,Yes
+113,Calcutta,46000.0,12.0,Mozzarella,Classic,Medium,Yes,Yes,Yes
+114,Calcutta,72000.0,14.0,Chicken,Classic,Large,Yes,Yes,Yes
+115,Calcutta,76000.0,12.0,Chicken,Crunchy,Medium,No,No,Yes
+116,Calcutta,119000.0,17.0,Mushrooms,New York,Xl,Yes,No,No
+117,Calcutta,126500.0,12.0,Smoked Beef,Double Decker,Medium,Yes,No,No
+118,Calcutta,75000.0,8.5,Smoked Beef,Classic,Small,Yes,Yes,No
+119,Calcutta,46000.0,12.0,Mushrooms,Classic,Medium,Yes,Yes,No
+120,Calcutta,72000.0,14.0,Mozzarella,Classic,Large,Yes,Yes,No
+121,Calcutta,49000.0,12.0,Smoked Beef,Crunchy,Medium,No,Yes,No
+122,Calcutta,83000.0,17.0,Chicken,New York,Xl,No,Yes,No
+123,Calcutta,96000.0,12.0,Mushrooms,Double Decker,Medium,No,Yes,Yes
+124,Calcutta,39000.0,8.5,Tuna,Spicy Tuna,Small,Yes,Yes,Yes
+125,Calcutta,72000.0,12.0,Tuna,Spicy Tuna,Medium,Yes,Yes,Yes
+126,Calcutta,99000.0,14.0,Tuna,Spicy Tuna,Large,Yes,Yes,Yes
+127,Calcutta,44000.0,8.5,Meat,Bbq Meat Fiesta,Small,Yes,No,Yes
+128,Calcutta,78000.0,12.0,Meat,Bbq Meat Fiesta,Medium,No,No,Yes

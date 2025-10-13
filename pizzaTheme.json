@@ -1,0 +1,13 @@
+{
+  "name": "BMW Theme",
+  "dataColors": [
+    "#FEF3E2",
+    "#FAB12F",
+    "#FA812F",
+    "#DD0303"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#000000",
+  "tableAccent": "#0066B1",
+  "visualStyles": {}
+}
